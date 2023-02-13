@@ -1,7 +1,7 @@
 # SYS411-Machine_Learning
 
-Selected Assignments from SYS 411 - Machine Learning  
-Professor Dr. Art White  
+Selected Assignments from SYS 411 - Machine Learning.   
+Dr. Art White  
 Taylor University  
 Spring 2022 (Junior Year)  
 
